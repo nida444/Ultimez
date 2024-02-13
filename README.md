@@ -1,1 +1,1 @@
-# Ultimez-Hackathon
+# Hackathon
