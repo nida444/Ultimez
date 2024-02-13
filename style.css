@@ -1,0 +1,179 @@
+* {
+    padding: none;
+    margin: none;
+}
+
+.top {
+    background-image: url("Rectangle\ 69.png");
+    background-repeat: no-repeat;
+}
+
+#logo {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 156.03px;
+    height: 25.1px;
+    top: 47px;
+    left: 77.22px;
+}
+
+.navbar {
+
+    display: inline-block;
+    height: 30px;
+}
+
+a {
+    font-family: Cairo;
+    font-size: 22px;
+    font-weight: 250;
+    line-height: 41px;
+    letter-spacing: 0px;
+    text-align: right;
+
+
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: white;
+}
+
+#topic {
+    width: 1223.33px;
+    height: 48px;
+    top: 36px;
+    left: 500px;
+    margin-left: 400px;
+}
+
+#login {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1.6px solid #FFFFFF;
+    border-radius: 8px;
+    width: 14px;
+    height: 14px;
+    top: 53px;
+    left: 1833.33px;
+    rotate: 180;
+
+}
+
+
+
+#Building {
+    color: #ffffff;
+    font-family: Cairo;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 85px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: auto;
+    height: 110px;
+    top: 143.54px;
+    /* left: 158px; */
+    margin-left: 200px;
+    margin-bottom: none;
+
+}
+
+#with {
+    font-family: Cairo;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 200px;
+    margin-top: none;
+    margin-bottom: 310px;
+
+}
+
+#sts {
+    display: inline-block;
+}
+
+#spring {
+    align-content: right;
+    display: inline;
+    width: 460px;
+    height: 477px;
+    top: 192px;
+    left: 1186px;
+    border-radius: 50px;
+    margin-bottom: 130px;
+}
+
+#digi{
+    width: 527px;
+    height: 204px;
+    top: 953px;
+    left: 240px;
+    font-family: Cairo;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 68px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+
+#para {
+    
+    font-family: cairo;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 561px;
+    height: 253px;
+    top: 1195px;
+    left: 240px;
+    
+
+}
+
+dt{
+    width: 182px;
+height: 36px;
+top: 1118px;
+left: 1076px;
+font-family: Cairo;
+font-size: 26px;
+font-weight: 665;
+line-height: 36px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+dd{
+    width: 602px;
+height: 76px;
+top: 1160px;
+left: 1076px;
+opacity: 0.7px;
+font-family: Cairo;
+font-size: 22px;
+font-weight: 600;
+line-height: 38px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+#tri{
+    width: 60px;
+height: 60px;
+top: 1435px;
+left: 989px;
+padding: 0px, 0px, 0px, 1px;
+display: inline-block;
+}
